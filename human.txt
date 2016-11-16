@@ -1,0 +1,40 @@
+
+/* TEAM */
+
+
+Your title: Jesper Petersson
+
+
+Site: jeppssonman@gmail.com
+
+
+Twitter: Jesper Petersson
+
+
+Location: Kalmar, Sweden.
+
+
+
+
+
+
+/* THANKS */
+
+
+Name: 1DV022, https://github.com/1dv022
+
+
+
+
+
+
+Last update: 2016/11/16
+
+
+Standards: HTML5, SCSS, JavaScript.
+
+
+Components:
+
+
+Software: IDE:WebStorm, Vagrant, Jekyll, VirtualBox, GitBash.
