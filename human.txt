@@ -34,7 +34,7 @@ Last update: 2016/11/16
 Standards: HTML5, SCSS, JavaScript.
 
 
-Components:
+Components: ??What components are we using??
 
 
 Software: IDE:WebStorm, Vagrant, Jekyll, VirtualBox, GitBash.
