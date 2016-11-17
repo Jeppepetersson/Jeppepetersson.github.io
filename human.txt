@@ -16,14 +16,10 @@ Location: Kalmar, Sweden.
 
 
 
-
-
 /* THANKS */
 
 
 Name: 1DV022, https://github.com/1dv022
-
-
 
 
 
