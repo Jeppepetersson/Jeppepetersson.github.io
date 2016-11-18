@@ -4,7 +4,7 @@ title: About Me
 permalink: /aboutMe/
 ---
 
-##This is a page about me.
+## This is a page about me.
 
 My name is Jesper Petersson, i study "Development and maintanance of software systems" in Kalmar, Sweden.
 I am born and raised in a town called Bergkvara which is located  about 50 km south of Kalmar. I have two brothers,
