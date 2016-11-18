@@ -3,7 +3,6 @@ layout: post
 title: "Assignment 1"
 date: 2016-11-17 17:47:40
 categories: assignments
-comments: true
 ---
 
 ##What do you think of pre-compiling your CSS?
